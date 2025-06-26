@@ -1,6 +1,6 @@
 package DesignPatterns.CreationalPatterns.PrototypePattern;
 
-public class ProtptypeDesignTest {
+public class PrototypeDesignTest {
     public static void main(String[] args) {
         IBook original = new Book("Design Patterns", "Affin");
         //clone() method will give the prototype of the original object
